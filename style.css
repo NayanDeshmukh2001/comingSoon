@@ -57,7 +57,7 @@ body {
 
 .launch-time {
   display: flex;
-  padding-bottom: 12px;
+  padding-bottom: 15px;
   gap: 20px;
 }
 .launch-time div {
@@ -67,7 +67,7 @@ body {
 
 .launch-time div p {
   font-size: 50px;
-  margin-bottom: -14px;
+  margin-bottom: -10px;
 }
 
 .rocket {
